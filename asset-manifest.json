@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/micro/static/css/main.afb07e30.css",
+    "main.js": "/micro/static/js/main.15a9e41f.js",
+    "static/media/asian-black-history-month.jpg": "/micro/static/media/asian-black-history-month.276159edf6ed6ed6460d.jpg",
+    "static/media/xbox-series-x.jpg": "/micro/static/media/xbox-series-x.a4958f5213176825726d.jpg",
+    "static/media/bing-ai-title-carousel.jpg": "/micro/static/media/bing-ai-title-carousel.43277263484c0f780cf1.jpg",
+    "static/media/bounce-title-carousel.jpg": "/micro/static/media/bounce-title-carousel.b129e5daa4ccc030699d.jpg",
+    "index.html": "/micro/index.html",
+    "main.afb07e30.css.map": "/micro/static/css/main.afb07e30.css.map",
+    "main.15a9e41f.js.map": "/micro/static/js/main.15a9e41f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afb07e30.css",
+    "static/js/main.15a9e41f.js"
+  ]
+}
